@@ -1,0 +1,40 @@
+blockquote{
+padding:55px 30px;
+border:powderblue 5px solid;
+border-radius:40px;
+}
+
+.{
+padding:500px;
+margin:200px
+}
+
+
+body {
+background-color:ccc;
+}
+
+
+h3{
+font-family:"Comic Sans MS", cursive;
+font-size:30px;
+color:#66c;
+}
+
+a{ 
+color:#000; 
+} 
+a:hover{ 
+color:66c; 
+font-weight:bold;
+font-size: 120%
+} 
+
+a:link
+{
+text-decoration:none;
+font-family:"Comic Sans MS", cursive 
+}
+
+
+

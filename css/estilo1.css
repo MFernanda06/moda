@@ -1,0 +1,29 @@
+body {
+background-color:#ccc;
+}
+
+header
+{
+text-decoration:underline;
+text-align:right;
+}
+
+
+a{ 
+color:#000; 
+} 
+a:hover{ 
+color:66c; 
+text-align: center;
+font-weight:bold;
+font-size: 120%
+} 
+
+
+a:link
+{
+text-decoration:none;
+font-family:"Comic Sans MS", cursive
+text-align: center
+}
+
